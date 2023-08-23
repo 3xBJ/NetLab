@@ -6,6 +6,7 @@
 		<Nullable>enable</Nullable>
 		<GenerateDocumentationFile>True</GenerateDocumentationFile>
 		<Authors>3xBJ</Authors>
+		<PackageProjectUrl>https://3xbj.github.io/NetLab</PackageProjectUrl>
 	</PropertyGroup>
 
 	<ItemGroup>
