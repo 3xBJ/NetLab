@@ -1,0 +1,872 @@
+{
+  "homepages": [],
+  "source_base_path": "/home/runner/work/NetLab/NetLab/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Domain.GitLab.Clients.IBaseClient-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Domain.GitLab.Clients.IBaseClient-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Domain.GitLab.Clients.IGitLabClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Domain.GitLab.Clients.IGitLabClient.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Domain.GitLab.Clients.Issues.IIssueClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Domain.GitLab.Clients.Issues.IIssueClient.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Domain.GitLab.Clients.Issues.SelectIssueRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Domain.GitLab.Clients.Issues.SelectIssueRequest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Domain.GitLab.Clients.Issues.SelectIssueStatisticsRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Domain.GitLab.Clients.Issues.SelectIssueStatisticsRequest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Domain.GitLab.Clients.Issues.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Domain.GitLab.Clients.Issues.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Domain.GitLab.Clients.Labels.ILabelClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Domain.GitLab.Clients.Labels.ILabelClient.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Domain.GitLab.Clients.Labels.SelectLabelRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Domain.GitLab.Clients.Labels.SelectLabelRequest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Domain.GitLab.Clients.Labels.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Domain.GitLab.Clients.Labels.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Domain.GitLab.Clients.MergeRequests.IMergeRequestClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Domain.GitLab.Clients.MergeRequests.IMergeRequestClient.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Domain.GitLab.Clients.MergeRequests.SelectMergeRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Domain.GitLab.Clients.MergeRequests.SelectMergeRequest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Domain.GitLab.Clients.MergeRequests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Domain.GitLab.Clients.MergeRequests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Domain.GitLab.Clients.Milestones.IMilestonesClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Domain.GitLab.Clients.Milestones.IMilestonesClient.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Domain.GitLab.Clients.Milestones.NewMilestoneRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Domain.GitLab.Clients.Milestones.NewMilestoneRequest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Domain.GitLab.Clients.Milestones.SelectMilestoneRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Domain.GitLab.Clients.Milestones.SelectMilestoneRequest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Domain.GitLab.Clients.Milestones.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Domain.GitLab.Clients.Milestones.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Domain.GitLab.Clients.RequestCreator-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Domain.GitLab.Clients.RequestCreator-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Domain.GitLab.Clients.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Domain.GitLab.Clients.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Domain.Parameters.ParameterAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Domain.Parameters.ParameterAttribute.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Domain.Parameters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Domain.Parameters.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.Asset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.Asset.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.Assignee.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.Assignee.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.Author.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.Author.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.Commit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.Commit.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.ContainerExpirationPolicy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.ContainerExpirationPolicy.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.Counts.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.Counts.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.DetailedStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.DetailedStatus.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.DiffRefs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.DiffRefs.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.Evidence.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.Evidence.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.HeadPipeline.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.HeadPipeline.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.IssueStatistics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.IssueStatistics.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.IssueStats.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.IssueStats.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.Label.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.Label.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.Links.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.Links.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.MergeRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.MergeRequest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.MergeState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.MergeState.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.Milestone.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.Milestone.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.MilestoneState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.MilestoneState.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.Namespace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.Namespace.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.Permissions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.Permissions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.Pipeline.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.Pipeline.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.Project.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.Project.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.ProjectAccess.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.ProjectAccess.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.References.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.References.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.Release.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.Release.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.ReleasesRegister.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.ReleasesRegister.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.Source.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.Source.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.Statistics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.Statistics.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.StatusIssue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.StatusIssue.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.TaskCompletionStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.TaskCompletionStatus.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.TimeStats.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.TimeStats.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.User.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.User.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.GitLab.Modelos.GitLab.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.GitLab.Modelos.GitLab.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Infrastructure.Clients.ClientFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Infrastructure.Clients.ClientFactory.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Infrastructure.Clients.Responses.IResponse-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Infrastructure.Clients.Responses.IResponse-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Infrastructure.Clients.Responses.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Infrastructure.Clients.Responses.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Infrastructure.Clients.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Infrastructure.Clients.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Infrastructure.Extensions.EnumerableExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Infrastructure.Extensions.EnumerableExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Infrastructure.Extensions.Http.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Infrastructure.Extensions.Http.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Infrastructure.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Infrastructure.Extensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Infrastructure.Parameters.Tests.ParameterSerializerTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Infrastructure.Parameters.Tests.ParameterSerializerTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Infrastructure.Parameters.Tests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Infrastructure.Parameters.Tests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Infrastructure.Tests.Clients.ClientFactoryTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Infrastructure.Tests.Clients.ClientFactoryTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Infrastructure.Tests.Clients.GitLabClientTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Infrastructure.Tests.Clients.GitLabClientTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Infrastructure.Tests.Clients.IssueClientTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Infrastructure.Tests.Clients.IssueClientTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Infrastructure.Tests.Clients.LabelClientTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Infrastructure.Tests.Clients.LabelClientTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Infrastructure.Tests.Clients.MergeRequestClientTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Infrastructure.Tests.Clients.MergeRequestClientTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Infrastructure.Tests.Clients.MilestoneClientTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Infrastructure.Tests.Clients.MilestoneClientTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Infrastructure.Tests.Clients.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Infrastructure.Tests.Clients.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Infrastructure.Tests.Extensions.EnumerableExtensionsTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Infrastructure.Tests.Extensions.EnumerableExtensionsTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Infrastructure.Tests.Extensions.TestEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Infrastructure.Tests.Extensions.TestEnum.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Infrastructure.Tests.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Infrastructure.Tests.Extensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Infrastructure.Tests.Parameters.MockParameterClass.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Infrastructure.Tests.Parameters.MockParameterClass.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Infrastructure.Tests.Parameters.Tipos.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Infrastructure.Tests.Parameters.Tipos.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Infrastructure.Tests.Parameters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Infrastructure.Tests.Parameters.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Infrastructure.Tests.Wrappers.PaginatedHttpClientTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Infrastructure.Tests.Wrappers.PaginatedHttpClientTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Infrastructure.Tests.Wrappers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Infrastructure.Tests.Wrappers.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Modelos.Entidades.GitLab.Issue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Modelos.Entidades.GitLab.Issue.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/NetLab.Modelos.Entidades.GitLab.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/NetLab.Modelos.Entidades.GitLab.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html"
+        },
+        ".json": {
+          "relative_path": "articles/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
