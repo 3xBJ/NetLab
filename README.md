@@ -1,7 +1,8 @@
 # NetLab
 
-LabNet is a GitLab SDK for .Net. This project is aimed at people who need to
-automate processes and report generation.
+LabNet is a GitLab SDK for .Net. 
+
+This project is aimed at people who need to automate processes and report generation.
 
 ## Features
 At the present moment one can:
@@ -16,8 +17,12 @@ At the present moment one can:
   - Milestones.
   
 ## How to install
+You can install via nuget package:
+- [NetLab.Domain](https://www.nuget.org/packages/NetLab.Domain)
+- [NetLab.Infrastructure](https://www.nuget.org/packages/NetLab.Infrastructure)
 
 ## Documentation
+The documentation can be found [here](https://3xbj.github.io/NetLab)
 
 ## Next Steps
 
