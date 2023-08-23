@@ -1,0 +1,35 @@
+name: Release to NuGet
+
+on:
+  release:
+    types: [published]
+    
+jobs:
+   tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+    - name: Dotnet Setup
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: 6.x
+    - name: Test
+      run: dotnet test -c Release
+      
+   deploy:
+    needs: tests
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+    - name: Dotnet Setup
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: 6.x
+    - name: Pack nugets
+      run: dotnet pack ./src -c Release --output .
+    - name: Push to NuGet
+      run: dotnet nuget push "*.nupkg" --api-key ${{secrets.NUGET_API_KEY}} --source https://api.nuget.org/v3/index.json
